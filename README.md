@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+To jest repozytorium służące nauce obsługi GitHub.
+Jestem Oskar Kaliszer, studiuję na Politechnice Gdańskiej. Jestem obecnie na drugim roku studiów.
